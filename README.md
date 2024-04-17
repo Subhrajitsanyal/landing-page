@@ -1,3 +1,3 @@
 # landing-page\
-this is alanding page for internship
+this is a landing page for internship
 Octanet
